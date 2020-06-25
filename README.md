@@ -1,12 +1,14 @@
 # web00-website-making-tutorials
-Video series on making websites with GitHub Pages, html, markdown, Jekyll, etc.
+Video series on making websites with GitHub Pages, html, markdown, Jekyll, etc:
 
-videos  
 00-introduction 
-( introduces the tutorial series )  
+- introduces the tutorial series
+
 01-sign-up-to-github  
-( demonstrates signing up to github.com i.e. registering) 
-02-web01-create-repository-and-turn-into-github-pages 
+- demonstrates signing up to github.com i.e. registering
+
+02-web01-create-repository-and-turn-into-github-pages
+
 03-web01-delayed-publishing-and-kproxy
 
 04-web01-introduction-to-custom-domain
