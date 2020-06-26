@@ -17,7 +17,7 @@ Video series on making websites with GitHub Pages, HTML, Markdown, Jekyll, etc:
 // keep in mind, you can connect your website to a custom domain easily
 
 05-web02-dowload-upload-files-to-repository   
-// create a new repostitory for a simple one pager, multilingual website 
+// create a new repository for a simple one pager, multilingual website 
 
 06-web02-edit-source-code-in-github-account   
 // amend the html source code of this repository in the github account
