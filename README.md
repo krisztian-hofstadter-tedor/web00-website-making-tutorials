@@ -14,19 +14,19 @@ Video series on making websites with GitHub Pages, HTML, Markdown, Jekyll, etc:
 // use kproxy to see published changes faster 
 
 04-web01-introduction-to-custom-domain    
-// keep in mind, you can connect your website to a custom domain easily
+// keep in mind, you can connect your website to a custom domain easily, more details later
 
 05-web02-dowload-upload-files-to-repository   
 // create a new repository for a simple one pager, multilingual website 
 
 06-web02-edit-source-code-in-github-account   
-// amend the html source code of this repository in the github account
+// amend the html source code of this repository in the Github account
 
 07-web02-edit-on-computer-with-atom   
 // streamline your workflow by making changes to the website on your computer
 
 08-web02-edit-on-computer-clone-with-github-desktop   
-// streamline your workflow by cloning your repository to your compute with Github Desktop
+// streamline your workflow by cloning your repository to your computer with Github Desktop
 
 More videos to come soon on 
 - using Markdown; 
