@@ -1,7 +1,7 @@
 # web00-website-making-tutorials
 Video series on making websites with GitHub Pages, HTML, Markdown, Jekyll, etc.
 
-videos series: https://www.youtube.com/playlist?list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ
+[YouTube videos series](https://www.youtube.com/playlist?list=PLRr9g36OjY6-xnDwUx4itRlh-xrlsszNZ)
 
 outline: 
 
